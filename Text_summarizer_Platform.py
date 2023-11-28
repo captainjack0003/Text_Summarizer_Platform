@@ -23,7 +23,7 @@ import streamlit as st
 #install numpy lib
 #install pdfplumer
 
-# for running this application you guys have to set proxy and then only it work as ford llm api will work with proxy only
+# for running this application you guys have to set proxy and then only it work as ford_llm api will work with proxy only
 
 
 
@@ -172,7 +172,7 @@ if not token:
 # Define the Streamlit app for User Interface
 
 
-st.title('Ford Text_Summarizer App')
+st.title('Text_Summarizer Platform')
 
 # Create a form for uploading files and entering text
 #with st.form('my_form'):
